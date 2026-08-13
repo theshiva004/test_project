@@ -1,0 +1,4 @@
+#ignore compiled executable files
+main
+main.executable
+*.exe
